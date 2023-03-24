@@ -1,0 +1,14 @@
+# Игнорирование файлов/папок сборки
+build/
+dist/
+
+# Игнорирование файлов .pyc и __pycache__
+*.pyc
+__pycache__/
+
+# Игнорирование файла .env
+.env
+.idea
+
+current_answer.txt
+vocabulary.txt
